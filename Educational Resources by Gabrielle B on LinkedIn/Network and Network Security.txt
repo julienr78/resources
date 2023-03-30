@@ -1,0 +1,31 @@
+[𝐅𝐑𝐄𝐄 𝐑𝐄𝐒𝐎𝐔𝐑𝐂𝐄𝐒 - 𝐍𝐄𝐓𝐖𝐎𝐑𝐊𝐈𝐍𝐆 𝐀𝐍𝐃 𝐍𝐄𝐓𝐖𝐎𝐑𝐊 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘]
+
+An understanding of networking is fundamental when learning Ethical Hacking.
+Furthermore, in your career you will certainly have to audit network security.
+
+👉 𝗪𝗵𝗮𝘁 𝗶𝘀 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝗶𝗻𝗴?
+🌟 Cover your digital basics with netacad
+https://lnkd.in/e5KUW4Hw
+
+🌟 Professor Messer’s CompTIA Network+ Course
+https://lnkd.in/ebcb9akZ
+
+🌟 OSI Model Graphics by Cierra Mansergh
+https://lnkd.in/exxuxHd9
+
+👉 𝗪𝗵𝗮𝘁 𝗶𝘀 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆?
+🌟 What is Network Security on Hackthebox blog by Kim Crawley
+https://lnkd.in/e4eHqJUj
+
+🌟 Network Security Course on OpenLearn by The Open University
+https://lnkd.in/eriPCwSd
+
+🌟 OSI Layers and related Attack types by Harun Seker
+https://lnkd.in/e_TzAdnG
+
+👉 𝗛𝗼𝘄 𝘁𝗼 𝗽𝗲𝗻𝘁𝗲𝘀𝘁 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝘀?
+🌟 Full Ethical Hacking Course - Beginner Network Penetration Testing by TCM Security
+https://lnkd.in/et-Cu9Je
+
+🌟 Infrastructure Pentesting Checklist by Purab Parihar:
+https://lnkd.in/eUHfCSYF
