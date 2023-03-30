@@ -1,0 +1,60 @@
+[𝐅𝐑𝐄𝐄 𝐑𝐄𝐒𝐎𝐔𝐑𝐂𝐄𝐒 - 𝐈𝐂𝐒/𝐎𝐓 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘]
+
+Securing Industrial Control Systems (ICS) and Operational Technology (OT) is critical for the safe and reliable operation of critical infrastructure systems such as power plants, water treatment facilities, and transportation systems. These systems control physical processes and are essential for the functioning of modern society.
+
+👉 𝗪𝗵𝗮𝘁 𝗶𝘀 𝗜𝗖𝗦 / 𝗢𝗧?
+🌟 How to get started in Industrial Control Systems (ICS) cyber security by David Valles
+http://ow.ly/uxBo50NuJ5u
+
+🌟 More resources on how to get started by Robert Lee: http://ow.ly/clKS50NuJ5m
+
+🌟 A Comprehensive Guide to Operational Technology (OT) Cybersecurity on Mission Secure:
+http://ow.ly/6zTp50NuJ5c
+
+🌟OT Cybersecurity: Zero to Hero by Shiv Kataria
+http://ow.ly/NNhj50NuJ5q
+
+🌟 So you Want to Learn ICS Security by Lesley Cahart
+http://ow.ly/tByT50NuIZq
+
+🌟So you want to be an OT (ICS) Cybersecurity Engineer? by John Kingsley
+http://ow.ly/nhJC50NuJ5s
+
+👉 𝗔𝘁𝘁𝗮𝗰𝗸𝗶𝗻𝗴 𝗜𝗖𝗦/𝗢𝗧
+🌟 Attacking ICS Plant #1 on TryHackMe
+http://ow.ly/eC5050NuJ5e
+
+🌟 Attacking ICS Plant #2 on TryHackMe
+http://ow.ly/l8M750NuJ5j
+
+🌟 Infrastructure Pentesting Checklist by Purab Parihar
+http://ow.ly/7Ml950NuJ5f
+
+🌟 John Hammond Attacking ICS Devices
+http://ow.ly/LhMt50NuJ5o
+
+🌟 Nmap and Sbom for ICS by Sulaiman Alhasawi
+http://ow.ly/8bh550NuJ5g
+
+🌟 Scada Hacker Library of Resources for Industrial Control System Cyber Security
+http://ow.ly/Mh2e50NuJ5i
+
+👉 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
+🌟 101 Critical Infrastructure Protection for the Public FedVTE
+http://ow.ly/irxs50NuJ5l
+
+🌟 Checkout CISA’s calendar for ICS Training
+http://ow.ly/CrVc50NuJ5p
+
+🌟 List of free online resources to learn ICS/OT cybersecurity by Irfan Shakeel
+http://ow.ly/wwEq50NuIUW
+
+🌟 A guide to your Certification journey in ICS/OT Cybersecurity by Shamikkumar Dave
+http://ow.ly/jR2I50NuIV6
+
+👉 𝗕𝗢𝗡𝗨𝗦 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀
+🌟 ICS Village Youtube Channel
+http://ow.ly/c1cN50NuIV9
+
+🌟 Sans ICS Free Resources
+http://ow.ly/J6oH50NuIUX
