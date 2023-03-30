@@ -1,0 +1,27 @@
+[𝐅𝐑𝐄𝐄 𝐑𝐄𝐒𝐎𝐔𝐑𝐂𝐄𝐒 / 𝐑𝐄𝐕𝐄𝐑𝐒𝐄 𝐄𝐍𝐆𝐈𝐍𝐄𝐄𝐑𝐈𝐍𝐆]
+
+Want to know more about Reverse Engineering?
+Check out these resources
+
+👉 𝗥𝗲𝘃𝗲𝗿𝘀𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴
+🌟 Reverse Engineering for Beginners by Ophir Harpaz
+https://www.begin.re/
+🌟 Reverse Engineering for Everyone by Kevin Thomas My Technotalent
+https://lnkd.in/eUqUDdXS
+🌟 Reverse Engineering for beginners by Dennis Yurichev (available in many languages)
+https://lnkd.in/eHsdurZG
+🌟 Reverse Engineering 101 by 0x00 (with exercises)
+https://lnkd.in/ebtKjS-W
+
+
+👉 𝗠𝗮𝗹𝘄𝗮𝗿𝗲 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀
+🌟 Malware Analysis In 5+ Hours - Full Course - Learn Practical Malware Analysis! by HuskyHacks
+https://lnkd.in/eR3_ki-6
+🌟 Malware Analysis – Mind Map by Thatintel
+https://lnkd.in/evyAhNWt
+🌟 Malware Analysis Tutorials: a Reverse Engineering Approach by Dr Xiang Fu
+https://lnkd.in/eHZFTSqp
+
+👉 𝗔𝗺𝗮𝘇𝗶𝗻𝗴 𝗕𝗼𝗻𝘂𝘀
+Malware Analysis and Reverse Engineering courses by DFIR Diva
+https://lnkd.in/eCxGV2iP
