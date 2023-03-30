@@ -1,0 +1,15 @@
+[𝐅𝐑𝐄𝐄 𝐑𝐄𝐒𝐎𝐔𝐑𝐂𝐄𝐒 / 𝐏𝐄𝐍𝐓𝐄𝐒𝐓 - 𝐎𝐒𝐈𝐍𝐓]
+
+OSINT is often part of a pentest.
+
+If you want to learn more about it or specialize in it.
+Here are some resources!
+
+👉 Check out The Ultimate OSINT collection by Hatless1der: https://lnkd.in/eVRDKG55
+
+👉 Have a look at this 5 hours free course by TCM Security
+https://lnkd.in/ejfngrAy
+
+👉 Check out this article by Giancarlo Fiorella on Bellingcat: https://lnkd.in/e-3KgsSG
+
+👉 Check out this amazing list of Tools and Resources by onlineosint: https://osint.link/
