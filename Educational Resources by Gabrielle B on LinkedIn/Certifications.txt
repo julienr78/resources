@@ -1,0 +1,21 @@
+[𝗥𝗘𝗦𝗢𝗨𝗥𝗖𝗘𝗦 - 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦]
+
+How to choose and prep your next certification?
+
+👉 The Security Certification Roadmap by Paul Jerimy
+https://lnkd.in/eYxih4tT
+🌟 How to Analyze a Cybersecurity Certification site by Meghan Jacquot, GCTI https://lnkd.in/eBtDaBT4
+
+👉 Go further with Joas A Santos PenTest Certification RoadMap
+https://lnkd.in/egmcyfVw
+
+👉 Learning pathways and Cloud Certifications by Travis DeForge
+https://lnkd.in/eisqe3tZ
+
+👉 Prep your certs with
+🌟 Marcelo Vázquez (Aka. S4vitar) for Multiple certifications
+➡️ HTB Machines https://lnkd.in/eCuEwkGN
+➡️ Study Plan https://lnkd.in/ex3zMYR7
+🌟 Rana Khalil and Ippsec for the OSCP
+➡️ https://lnkd.in/e2cvZt9K
+➡️ https://ippsec.rocks/?#
