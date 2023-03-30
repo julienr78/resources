@@ -1,0 +1,49 @@
+[𝐅𝐑𝐄𝐄 𝐑𝐄𝐒𝐎𝐔𝐑𝐂𝐄𝐒 - 𝐏𝐫𝐢𝐯𝐢𝐥𝐞𝐠𝐞 𝐞𝐬𝐜𝐚𝐥𝐚𝐭𝐢𝐨𝐧 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐚𝐧𝐝 𝐋𝐢𝐧𝐮𝐱]
+
+During pentest engagements you will have to escalate privileges.
+Want to know more about this and sharpen your skills?
+This post is for you!
+
+👉 𝗪𝗵𝗮𝘁 𝗶𝘀 𝗣𝗿𝗶𝘃𝗶𝗹𝗲𝗴𝗲 𝗘𝘀𝗰𝗮𝗹𝗮𝘁𝗶𝗼𝗻?
+🌟 Cybersecurity 101 - What is Privilege escalation on CrowdStrike https://lnkd.in/e4diwQrf
+
+🌟 Privilege Escalation Attack and defend explained on BeyondTrust
+https://lnkd.in/enQ-AMhB
+
+👉 𝗪𝗶𝗻𝗱𝗼𝘄𝘀 𝗣𝗿𝗶𝘃𝗶𝗹𝗲𝗴𝗲 𝗘𝘀𝗰𝗮𝗹𝗮𝘁𝗶𝗼𝗻
+🌟 My Pentips on Windows Privilege escalation on CSbyGB - Pentips
+https://lnkd.in/eXgR_Eua
+
+🌟 Windows Privilege Escalation on PayloadsAllTheThings
+https://lnkd.in/e7rGg5MF
+
+🌟 Windows Privesc guide on absolomb’s security blog
+https://lnkd.in/eBfktNes
+
+🌟 Privilege Escalation Windows on sushant747’s gitbook
+https://lnkd.in/egU96ktp
+
+🌟 Windows Local Privilege Escalation checklist on HackTricks
+https://lnkd.in/eJqFJy8n
+
+👉 𝗟𝗶𝗻𝘂𝘅 𝗣𝗿𝗶𝘃𝗶𝗹𝗲𝗴𝗲 𝗘𝘀𝗰𝗮𝗹𝗮𝘁𝗶𝗼𝗻
+🌟 My Pentips on Linux Privilege Escalation on CSbyGB - Pentips
+https://lnkd.in/ekx-xdfm
+
+🌟 Linux Privilege Escalation on PayloadsAllTheThings
+https://lnkd.in/ePmZSw6t
+
+🌟 Basic Linux Privilege Escalation on g0tm1lk’s blog
+https://lnkd.in/e7dCUQXM
+
+🌟 Guide Linux Privilege Escalation on Payatu
+https://lnkd.in/eMD3JRbE
+
+🌟 Linux Privilege Escalation on shushant747’s gitbook
+https://lnkd.in/eh-gV2km
+
+🌟 A curated list of Unix Binaries to bypass local security restrictions by GTFOBins
+https://lnkd.in/eucjKtCP
+
+🌟 Linux Privilege Escalation Checklist on HackTricks
+https://lnkd.in/ef_wgGex
