@@ -1,0 +1,31 @@
+[𝐅𝐑𝐄𝐄 𝐑𝐄𝐒𝐎𝐔𝐑𝐂𝐄𝐒 - 𝐀𝐏𝐈 𝐏𝐄𝐍𝐓𝐄𝐒𝐓]
+
+Want to learn or sharpen your skills in API pentest? Now is the time
+
+👉 𝐖𝐡𝐚𝐭 𝐢𝐬 𝐚𝐧 𝐀𝐏𝐈? 𝐀𝐧𝐝 𝐡𝐨𝐰 𝐭𝐨 𝐡𝐚𝐜𝐤 𝐭𝐡𝐞𝐦?
+🌟 Alex Wang’s post - What is an API, and how does it work?
+https://lnkd.in/eSih-jU9
+🌟 API Hacking beginners guide by Dana Epp
+https://lnkd.in/eCcQSdxW
+🌟 Corey Ball API workshop here:
+https://lnkd.in/eZn3aZ66
+🌟 𝗡𝗘𝗪! Check out APIsec University by Corey J. Ball and Dan Barahona: https://lnkd.in/ez3jh2Gj
+
+👉 𝐓𝐨 𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐞 𝐲𝐨𝐮𝐫 𝐩𝐞𝐧𝐭𝐞𝐬𝐭
+🌟 MalAPI by mrd0x
+https://malapi.io/
+🌟 MindAPI by David Sopas
+https://lnkd.in/g3FAtwiA
+
+👉 𝐖𝐚𝐧𝐭 𝐬𝐨𝐦𝐞 𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐞?
+🌟 Hackxpert - OWASP top 10 api training
+https://lnkd.in/eh8skkDZ
+🌟 VAmPI by erev0s:
+https://lnkd.in/gKtw63hy
+https://lnkd.in/eab9Y6Br
+
+👉 𝐋𝐞𝐚𝐫𝐧 𝐦𝐨𝐫𝐞 𝐚𝐛𝐨𝐮𝐭 𝐀𝐏𝐈 𝐢𝐧 𝐫𝐞𝐚𝐥 𝐜𝐨𝐧𝐭𝐞𝐱𝐭 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞𝐬𝐞 𝐯𝐢𝐝𝐞𝐨𝐬 𝐚𝐧𝐝 𝐜𝐨𝐧𝐟𝐞𝐫𝐞𝐧𝐜𝐞𝐬
+🌟 APISecure Conference all their 2022 videos are available on their website
+https://lnkd.in/e7ge2qRv
+🌟 Hacking mHealth Apps and APIs on KnightTV with Alissa Valentina Knight
+https://lnkd.in/gF5kqysD
