@@ -1,0 +1,32 @@
+[𝗙𝗥𝗘𝗘 𝗥𝗘𝗦𝗢𝗨𝗥𝗖𝗘𝗦 - 𝗖𝗧𝗙]
+
+CTF are a great way to learn about specific topics related to cybersecurity.
+There are different ways to practice CTF, you can either take a platform online and play on your own, this a nice way to familiarize yourself with them, and then you can build a team and join CTF events together.
+
+👉 What is CTF? Hack The Box
+https://lnkd.in/e5bAv6dg
+🌟 The CTF journey of a web dev by Eric Hogue
+https://lnkd.in/ehcwJiny
+
+👉 Reading writeups is really helpful to understand the mindset behind CTF challenges
+🌟 Amazing collaborative repository on github with plenty of writeups: https://github.com/ctfs
+
+👉 Practice
+🌟 Get the knowledge you need to start ctf with picoCTF
+https://picoctf.org/
+🌟 Join popular CTF platforms like Tryhackme, Hackthebox, Ringzero and Root-Me Pro
+https://tryhackme.com/
+https://lnkd.in/eKXwrKqA
+https://lnkd.in/eVz6ckuX
+https://lnkd.in/eEsEx3Ny
+🌟 Have you heard about Cryptopals?
+This is a CTF platform focused on Crypto by Thomas Ptacek, Sean Devlin, Alex Balducci and Marcin Wielgoszewski
+https://cryptopals.com/
+
+👉 Tools for CTF
+🌟 Marcelle Lee’s website reference sheet
+https://lnkd.in/e8deqQ9f
+
+👉 Join the fun
+🌟 Check out upcoming live CTF events on CTF Time
+https://ctftime.org/
