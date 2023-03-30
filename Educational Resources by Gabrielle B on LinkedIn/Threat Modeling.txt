@@ -1,0 +1,27 @@
+[𝐅𝐑𝐄𝐄 𝐑𝐄𝐒𝐎𝐔𝐑𝐂𝐄𝐒 - 𝐓𝐇𝐑𝐄𝐀𝐓 𝐌𝐎𝐃𝐄𝐋𝐈𝐍𝐆]
+
+If we follow the PTES Standard, Threat Modeling is part of the pentest process.
+Want to know more about this topic?
+This post is for you!
+
+👉 𝗪𝗵𝗮𝘁 𝗶𝘀 𝘁𝗵𝗿𝗲𝗮𝘁 𝗺𝗼𝗱𝗲𝗹𝗶𝗻𝗴?
+🌟 Threat Modeling on OWASP by Victoria Drake
+http://ow.ly/nghT50McjXe
+
+👉 𝗛𝗼𝘄 𝗱𝗼𝗲𝘀 𝗶𝘁 𝘄𝗼𝗿𝗸?
+🌟 Threat Modeling the Right way for builders Workshop on AWS Skill builder
+http://ow.ly/XoQF50McjXh
+🌟 Even my dad is a threat modeler by Sarthak Taneja
+http://ow.ly/M8Jy50McjVM
+
+👉 𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 𝗮𝗻𝗱 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀
+🌟 Threat Model Examples by Tal Eliyahu
+http://ow.ly/MBo550McjVO
+🌟 Julien Provenzano made multiple posts on the subject
+✅http://ow.ly/TVp850McjXa
+✅http://ow.ly/jfJp50McjXf
+✅http://ow.ly/Sgcx50McjVN
+🌟 The threat Model playbook by Toreon
+http://ow.ly/8nqu50McjXc
+🌟 OWASP Threat Modeling Cheat Sheet
+http://ow.ly/RqjY50McjXi
