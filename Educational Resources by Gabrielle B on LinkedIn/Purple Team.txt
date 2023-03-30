@@ -1,0 +1,27 @@
+[𝐅𝐑𝐄𝐄 𝐑𝐄𝐒𝐎𝐔𝐑𝐂𝐄𝐒 / 𝐏𝐔𝐑𝐏𝐋𝐄 𝐓𝐄𝐀𝐌]
+
+Purple Team is born from the collaboration between Red Team and Blue Team.
+But what is it exactly? Check out this resources to know more about it
+
+👉 𝗪𝗵𝗮𝘁 𝗶𝘀 𝗣𝘂𝗿𝗽𝗹𝗲 𝗧𝗲𝗮𝗺
+🌟 The Difference Between Red, Blue, and Purple Teams by Daniel Miessler
+https://lnkd.in/ePj9PdJn
+🌟 Purple Teaming for dummies by Jonathan Relber, Ben Opel and Carl Wright:
+https://lnkd.in/g45jnejT
+🌟 ENTERPRISE PURPLE TEAMING: AN EXPLORATORY QUALITATIVE STUDY (𝒘𝒊𝒕𝒉 𝒍𝒐𝒕𝒔 𝒐𝒇 𝒓𝒆𝒔𝒐𝒖𝒓𝒄𝒆𝒔) by Xena Olsen, DSc, MBA , Ch33r10
+https://lnkd.in/gnGFfPbR
+
+👉 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲 𝗮𝗻𝗱 𝗧𝗶𝗽𝘀
+🌟 Check out this training by Christian S. & Travis DeForge and register for 🚨𝘁𝗼𝗺𝗼𝗿𝗿𝗼𝘄'𝘀 𝘁𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝘀𝗲𝘀𝘀𝗶𝗼𝗻🚨 where you learn about Purple Teaming work and building a purpleteaming lab
+https://lnkd.in/eimvjzwE
+🌟 Purple Team Exercise Framework by SCYTHE https://lnkd.in/e3cnDETB
+🌟 Purple Teaming learning Path on AttackIQ https://lnkd.in/e3s_MrCA
+🌟 Actionable Purple Teaming: Why and How You Can (and Should) Go Purple by Scythe https://lnkd.in/geNgDbsK
+🌟 A post by Julien Provenzano ☁ with a hands-on Purple Team Workshop by Scythe and Jorge Orchilles
+https://lnkd.in/eRMv6-2m
+
+👉 𝗧𝗼𝗼𝗹𝘀
+🌟 PlumHound by Black Hills Information Security
+https://lnkd.in/ee2WJZQb
+🌟 PurpleSharp by Mauricio Velazco
+https://lnkd.in/eHYZPWem
