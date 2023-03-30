@@ -1,0 +1,24 @@
+[𝐅𝐑𝐄𝐄 𝐑𝐄𝐒𝐎𝐔𝐑𝐂𝐄𝐒 - 𝐁𝐔𝐆 𝐁𝐎𝐔𝐍𝐓𝐘]
+
+Want to get into Bug Bounty? Here is a list of resources
+
+👉 A great introduction on how to get into bug bounty by Wesley Thijs xssrat
+https://lnkd.in/eZSYfHSf
+
+👉 A list of bug bounty platforms by Bughacking
+https://lnkd.in/eQk9jk7M
+👉 A list of bug bounty programs by vpnmentor:
+https://lnkd.in/eECUuYgp
+
+👉 Want to apply to the Synack Red Team Artemis program?
+An exclusive community open to security professionals who identify as women, trans and nonbinary people, and others who identify as a gender minority. See this link:
+https://lnkd.in/eD_XDm4j
+
+👉 Farah Hawa has a great video about bug bounty resources:
+https://lnkd.in/ea-Nn2KB
+
+👉 The Bug Hunter Handbook by Gowthams
+https://lnkd.in/eW6awYWU
+
+👉 A repo “AllAboutBugBounty” by daffainfo
+https://lnkd.in/evPuwGKZ
